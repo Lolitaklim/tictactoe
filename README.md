@@ -15,6 +15,6 @@ https://dolkalimona.ru/interactivemap/
 Репозиторий: https://github.com/Lolitaklim/tetris  
 https://dolkalimona.ru/tetris/  
 
-8. Визуализация алгоритмов сортировки  
-Репозиторий: https://github.com/Lolitaklim/sortingalgorithms  
-https://dolkalimona.ru/sortingalgorithms/  
+9. Калькулятор калорий 
+Репозиторий: https://github.com/Lolitaklim/caloriecalculator  
+https://dolkalimona.ru/calorie%D1%81alculator/  
